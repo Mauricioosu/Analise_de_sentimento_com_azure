@@ -1,0 +1,1 @@
+# Analise_de_sentimento_com_azure
